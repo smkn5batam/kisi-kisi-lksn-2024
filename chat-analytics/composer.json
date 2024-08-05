@@ -1,0 +1,25 @@
+{
+    "name": "smkn5batam/chat-analytics",
+    "type": "project",
+    "require-dev": {
+        "doctrine/coding-standard": "^12.0"
+    },
+    "authors": [
+        {
+            "name": "Muhammad Hasan Firdaus",
+            "email": "hasanteam008@gmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    },
+    "scripts": {
+        "start": [
+        "Composer\\Config::disableProcessTimeout",
+        "php -S 127.0.0.1:8080 index.php"
+        ]
+    }
+}

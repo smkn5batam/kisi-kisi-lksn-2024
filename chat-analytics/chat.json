@@ -1,0 +1,58 @@
+[
+  {
+    "messageId": "1",
+    "senderId": "user",
+    "timestamp": 1691234567,
+    "type": "text",
+    "content": "Halo! Ada yang bisa dibantu?"
+  },
+  {
+    "messageId": "2",
+    "senderId": "bot",
+    "timestamp": 1691234689,
+    "type": "text",
+    "content": "Hai! Saya adalah bot AI. Apa yang ingin Anda ketahui?"
+  },
+  {
+    "messageId": "3",
+    "senderId": "user",
+    "timestamp": 1691235789,
+    "type": "text",
+    "content": "Bisakah kamu menjelaskan apa itu kecerdasan buatan?"
+  },
+  {
+    "messageId": "4",
+    "senderId": "bot",
+    "timestamp": 1691236901,
+    "type": "text",
+    "content": "Tentu! Kecerdasan Buatan (AI) adalah bidang ilmu komputer yang bertujuan menciptakan sistem yang dapat belajar dan melakukan tugas yang biasanya membutuhkan kecerdasan manusia. Contohnya seperti mengenali wajah, memahami bahasa alami, atau bermain game."
+  },
+  {
+    "messageId": "5",
+    "senderId": "user",
+    "timestamp": 1691237012,
+    "type": "text",
+    "content": "Wow, menarik! Aplikasi AI apa yang populer saat ini?"
+  },
+  {
+    "messageId": "6",
+    "senderId": "bot",
+    "timestamp": 1691237123,
+    "type": "text",
+    "content": "Banyak sekali! Beberapa yang populer termasuk asisten virtual seperti Siri dan Alexa, teknologi pengenalan gambar dalam pencarian Google, serta sistem rekomendasi di platform seperti Netflix dan Spotify."
+  },
+  {
+    "messageId": "7",
+    "senderId": "user",
+    "timestamp": 1691237234,
+    "type": "text",
+    "content": "Terima kasih atas penjelasannya!"
+  },
+  {
+    "messageId": "8",
+    "senderId": "bot",
+    "timestamp": 1691237345,
+    "type": "text",
+    "content": "Sama-sama! Jika ada pertanyaan lain, jangan ragu untuk bertanya."
+  }
+]
